@@ -7,7 +7,7 @@ package com.mycompany.importserver;
  */
 
 
-public class NameHandler {
+class NameHandler {
     
     private String name;
     private String lastname;
