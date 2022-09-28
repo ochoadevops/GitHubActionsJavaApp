@@ -5,9 +5,7 @@ package com.mycompany.importserver;
  * Added email notification
  * @author ochoa
  */
-
-
-public lass NameHandler {
+public class NameHandler {
     
     private String name;
     private String lastname;
